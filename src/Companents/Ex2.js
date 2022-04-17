@@ -23,6 +23,7 @@ function Ex2() {
 
     return (
         <>
+            <h2> Exercise 2 </h2>
             <p className="squere" style={ { width : '250px' , height : '250px', backgroundColor : backgroundColor}}>I am now on X : {width}px and Y : {height}px</p>
         </>
     );

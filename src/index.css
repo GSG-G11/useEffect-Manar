@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav {
+  background-color: #282c34;
+  min-height: 10%;
+  display: flex;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+}
+nav ul li{
+  margin-left: 15%;
+}
+nav ul a {
+  color: white;
+}

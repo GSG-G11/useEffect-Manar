@@ -14,6 +14,7 @@ function Counter() {
 
     return (
         <div>
+            <h2> Exercise 1 </h2>
             <div> count {count} </div>
             <hr />
         </div>
